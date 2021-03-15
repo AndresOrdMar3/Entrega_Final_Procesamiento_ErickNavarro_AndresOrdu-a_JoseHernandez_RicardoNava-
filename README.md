@@ -1,6 +1,6 @@
 # Entrega Final. Procesamiento de Datos con Python.
 
-Erick Isaac Navarro Delgado \\
+* Item Erick Isaac Navarro Delgado
 Andres Orduña Martínez
 Jose Jesús Hernández 
 Ricardo Yair Nava
