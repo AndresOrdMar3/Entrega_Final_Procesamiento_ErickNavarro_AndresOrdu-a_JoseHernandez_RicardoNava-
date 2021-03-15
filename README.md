@@ -5,4 +5,4 @@
 * **Item Jose Jesús Hernández**
 * **Item Ricardo Yair Nava**
 
-En este repositório están la entrega escrita y la *Jupyter-Notebook* del proyecto para el módulo *Procesamiento de Datos con Python*.
+En este repositório están la **entrega escrita (Proyecto_BEDU__Procesamiento_de_Datos_con_Python.pdf)** y la __*Jupyter-Notebook* (Proyecto.ipynb)__ del proyecto para el módulo *Procesamiento de Datos con Python*.
